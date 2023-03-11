@@ -50,7 +50,7 @@ def Map():
     return image
 
 
-Map()
+# Map()
 
 # to retrieve starting pos of bot
 
